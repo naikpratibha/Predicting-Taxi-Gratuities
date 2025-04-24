@@ -35,6 +35,8 @@ confusion metrix display:
 This model can benefit Taxi Drivers in knowing if they will be tipped generously or not; however, running a parametric model to determine how much each variable will influence the actual price of the tip. In the future, adding more information on a rider’s past tipping behavior may also be beneficial in helping the stakeholder address their business problem.
 
 feature importances:
+
+
 <img width="807" alt="Screenshot 2025-04-24 at 12 17 22 PM" src="https://github.com/user-attachments/assets/6a5d6393-d832-4577-a946-6888d5b4c5d5" />
 
 
